@@ -2,6 +2,7 @@
 
 const flightTracker = require("../lib");
 
+// Actually, yeah, that was a real flight :D
 flightTracker({
     // Where and when are you flying from?
     start: ["Cluj-Napoca", new Date(2016, 4, 26, 18, 5)]
