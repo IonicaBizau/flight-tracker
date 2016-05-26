@@ -23,4 +23,7 @@ flightTracker({
 
     // By default, use the standard out stream of the current process
   , stream: process.stdout
-}).on("error", err => console.error(err));
+}).on("error", err => {
+    console.error(err);
+    process.exit(1);
+});
