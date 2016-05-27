@@ -22,8 +22,8 @@ new Tilda(`${__dirname}/../package.json`, {
             name: "end"
           , desc: "The end location."
         }
-    ],
-    options: [
+    ]
+  , options: [
         {
             name: "ms"
           , opts: ["i", "interval"]
@@ -36,6 +36,9 @@ new Tilda(`${__dirname}/../package.json`, {
           , type: Number
           , desc: "How many decimals to display."
         }
+    ]
+  , examples: [
+        "flight-tracker '2016-05-26 18:05' '2016-05-26 21:15' 'Cluj-Napoca' 'Luton, London' -i 50 -d 20"
     ]
 }).main(a => {
     flightTracker({

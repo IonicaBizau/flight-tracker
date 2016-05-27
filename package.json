@@ -42,5 +42,9 @@
   "homepage": "https://github.com/IonicaBizau/flight-tracker#readme",
   "blah": {
     "h_img": "http://i.imgur.com/IBFNbJA.png"
+  },
+  "dependencies": {
+    "fillo": "^1.0.4",
+    "tilda": "^4.3.1"
   }
 }
