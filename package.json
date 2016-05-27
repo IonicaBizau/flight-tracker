@@ -1,9 +1,12 @@
 {
-  "name": "flight-simulator",
-  "description": "A flight simulator in your command line.",
+  "name": "flight-tracker",
+  "description": "A flight tracker in your command line.",
+  "bin": {
+    "flight-tracker": "./bin/flight-tracker.js"
+  },
   "keywords": [
     "flight",
-    "simulator",
+    "tracker",
     "a",
     "in",
     "your",
@@ -31,10 +34,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/flight-simulator.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/flight-tracker.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/flight-simulator/issues"
+    "url": "https://github.com/IonicaBizau/flight-tracker/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/flight-simulator#readme"
+  "homepage": "https://github.com/IonicaBizau/flight-tracker#readme",
+  "blah": {
+    "h_img": "http://i.imgur.com/IBFNbJA.png"
+  }
 }
