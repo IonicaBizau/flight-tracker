@@ -41,7 +41,8 @@
   },
   "homepage": "https://github.com/IonicaBizau/flight-tracker#readme",
   "blah": {
-    "h_img": "http://i.imgur.com/IBFNbJA.png"
+    "h_img": "http://i.imgur.com/IBFNbJA.png",
+    "description": "Coded in the airport and on the plane. :airplane:"
   },
   "dependencies": {
     "fillo": "^1.0.4",

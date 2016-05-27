@@ -7,6 +7,8 @@
 
 > A flight tracker in your command line.
 
+Coded in the airport and on the plane. :airplane:
+
 ## :cloud: Installation
 
 You can install the package globally and use it as command line tool:
