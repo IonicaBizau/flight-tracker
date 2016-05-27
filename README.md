@@ -38,6 +38,9 @@ Options:
   -v, --version           Displays version information.
   -h, --help              Displays this help.
 
+Examples:
+  $ flight-tracker '2016-05-26 18:05' '2016-05-26 21:15' 'Cluj-Napoca' 'Luton, London' -i 50 -d 20
+
 Documentation can be found at https://github.com/IonicaBizau/flight-tracker#readme.
 ```
 
