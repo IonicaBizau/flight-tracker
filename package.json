@@ -14,7 +14,7 @@
     "line"
   ],
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/flight-tracker#readme",
   "blah": {
-    "h_img": "http://i.imgur.com/IBFNbJA.png",
+    "ex_img": "http://i.imgur.com/IBFNbJA.png",
     "description": "Coded in the airport and on the plane. :airplane:"
   },
   "dependencies": {
