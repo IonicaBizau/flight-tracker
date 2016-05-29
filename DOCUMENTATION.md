@@ -20,4 +20,8 @@ Starts the flight tracker instance.
 
 #### Return
 - **EventEmitter** An EventEmitter object emitting the following events:
+ - `error` (Error): The error that occured.
+ - `progress` (Number): The percent value.
+ - `info` (String): Progress messages.
+ - `finish` (String): Emitted when the flight is finished.
 
