@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Starts the flight tracker instance.
 
 #### Params
+
 - **Object** `options`: An object containing the following fields:
  - `start` (Array): An array containing two elements:
      - `[0]` (String): The airport name.
